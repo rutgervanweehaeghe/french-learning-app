@@ -2,6 +2,8 @@
 
 FrenchApp is a simple interactive web app built with JavaScript, HTML, and CSS that helps users practice the French language. It presents a random word from a vocabulary list and challenges the user to choose the correct translation from multiple-choice options.
 permissable for non-profit use
+
+
 ![App Screenshot failed to load](https://github.com/rutgervanweehaeghe/french-learning-app/blob/main/frenchapp_multichoice.png)
 
 ---------------------------------------------------------------
