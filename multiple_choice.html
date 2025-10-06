@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multiple Choice Quiz</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap" rel="stylesheet">
+    <script src="menu_popupfunction.js" defer></script>
+
+    <!-- ✅ Load vocab lists BEFORE the script -->
+    <script src="voclist_school.js"></script>
+    <script src="voclist_sports.js"></script>
+    <script src="multiple_choice_script.js" defer></script> 
+</head>
+<body>
+
+    <div class="quiz-container">
+
+  <div id="progress-wrapper">
+   
+    <div id="progress-icon">💪</div>
+    <div id="progress-bar">
+        <div id="progress-bar-fill"></div>
+    </div>
+    <div id="progress-counter">0 / 20</div>
+</div>
+        <h2>Test Your Knowledge</h2>
+
+<div id="goal-message">🎯 Daily Goal Reached!</div>
+        <p id="question">Loading...</p>
+
+        <!-- Buttons to be filled dynamically -->
+        <button class="answer-btn"></button>
+        <button class="answer-btn"></button>
+        <button class="answer-btn"></button>
+        <button class="answer-btn"></button>
+
+        <p id="result"></p>
+        <button id="next-btn" style="display: none;" onclick="nextQuestion()">Next Question</button>
+    </div>
+</body>
+</html>
