@@ -17,7 +17,11 @@ FrenchApp is a simple interactive web app built with JavaScript, HTML, and CSS t
 
 📂 Easy to customize — simple programming template, usefull for further development
 
+---------------------------------------------------------------
 
+![App Screenshot failed to load](https://github.com/rutgervanweehaeghe/french-learning-app/blob/main/frenchapp_voc.png)
+
+---------------------------------------------------------------
 
 # Technologies Used 🛠️ 
 
@@ -74,4 +78,4 @@ for details.
 
 ---------------------------------------------------------------------------
 
-![App Screenshot failed to load](https://github.com/rutgervanweehaeghe/french-learning-app/blob/main/frenchapp_voc.png)
+
