@@ -17,7 +17,7 @@ FrenchApp is a simple interactive web app built with JavaScript, HTML, and CSS t
 
 📂 Easy to customize — simple programming template, usefull for further development
 
----------------------------------------------------------------
+
 
 # Technologies Used 🛠️ 
 
@@ -27,7 +27,7 @@ CSS3 – styling and layout
 
 JavaScript (ES6) – quiz logic and interactivity
 
----------------------------------------------------------------
+
 
 # Getting Started 🚀 
 Run Locally
@@ -40,7 +40,7 @@ cd french-learning-app
 
 
 Open index.html in your browser.
----------------------------------------------------------------
+
 
 # Multichoice Functionality 🎯 
 
@@ -50,7 +50,6 @@ dev's are free use for non-commercial use int their works, for commercial use pe
 
 
 
----------------------------------------------------------------
 
 # Future Ideas 🌟 
 
@@ -62,9 +61,9 @@ Support for more languages
 
 Leaderboard or progress tracking
 
----------------------------------------------------------------
 
-# ontributing 🤝 
+
+# Contributing 🤝 
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
@@ -73,5 +72,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 This project is licensed under the Creative Commons 4.0 License — see license.txt
 for details.
 
+---------------------------------------------------------------------------
 
 ![App Screenshot failed to load](https://github.com/rutgervanweehaeghe/french-learning-app/blob/main/frenchapp_voc.png)
